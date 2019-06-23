@@ -1,0 +1,10 @@
+  Input           Output
+0 0 0 0 0           0
+1 2 3 4 5           3
+3 4                 3
+1 2 3 1 2           2
+Неправильное
+ имя файла       No file
+a b           Incorrected file
+Неправильные
+ параметры    Incorrected form

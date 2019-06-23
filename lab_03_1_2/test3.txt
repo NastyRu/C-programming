@@ -1,0 +1,2 @@
+ Input       Output
+   a        No input data

@@ -1,0 +1,11 @@
+.DS_Store
+Dockerfile
+*.a
+*.o
+*.exe
+*.creator
+*.creator.user
+*.creator.user.f932e3b
+*.config
+*.files
+*.includes

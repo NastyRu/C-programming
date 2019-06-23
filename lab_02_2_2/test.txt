@@ -1,0 +1,19 @@
+   input              output
+
+0,0 1,0 0,1    on the side of triangle
+    0,0
+
+0,0 3,0 0,3        in triangle
+    1,1
+
+0,0 2,0 0,2    on the side of triangle
+    1,1
+
+0,0 2,0 0,2        out triangle
+   0,2.1
+
+0,0 2,0 0,2        out triangle
+    2,2
+
+0,0 0,0 0,0       Incorrect coordinats
+    0,0
